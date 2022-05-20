@@ -22,6 +22,13 @@ function Hooks(props) {
             }
         });
     }
+
+    // const Res = () => {
+    //     setData(res=>{
+    //         return{...res, brand : 'hello'}
+    //     });
+    // }
+
     return (
         <>
             <div style={{ color: 'green' }}>
